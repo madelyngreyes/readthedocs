@@ -5,7 +5,7 @@ Cohorts
 Cohorts are a way of creating custom groupings of the samples and/or participants that you are 
 interested in analyzing further.
 For example, you can create cohorts that span across multiple projects, only contain samples for
-which certain types of data are avaialble, or focus on specific phenotypic characteristics.
+which certain types of data are available, or focus on specific phenotypic characteristics.
 
 Creating and saving a cohort
 ############################
