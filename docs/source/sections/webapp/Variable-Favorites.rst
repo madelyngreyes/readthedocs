@@ -51,9 +51,6 @@ Data Types Filter
     * miRNA
     * Mutation
 
-Projects
-^^^^^^^^
-"Not sure the functionality of this filter atm"
 
 Selected Filters Panel
 ^^^^^^^^^^^^^^^^^^^^^^
