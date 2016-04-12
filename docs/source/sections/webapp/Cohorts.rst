@@ -34,8 +34,8 @@ Cohort Filters
 Participant Filters List
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-    * Project
-    * Study
+    * Public Projects
+    * Public Studies (mouse over feature will display disease name)
     * Vital Status
     * Gender
     * Age At Diagnosis
