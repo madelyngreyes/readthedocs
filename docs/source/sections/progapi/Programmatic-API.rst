@@ -181,13 +181,11 @@ Details for each of these endpoints can be found below:
    progapi2_v2/cohorts_create.rst
    progapi2_v2/cohorts_delete.rst
    progapi2_v2/cohorts_get.rst
-   progapi2_v2/cohorts_googlegenomics.rst
    progapi2_v2/cohorts_list.rst
    progapi2_v2/cohorts_preview.rst
    progapi2_v2/patients_get.rst
    progapi2_v2/samples_cloud_storage_file_paths.rst
    progapi2_v2/samples_get.rst
-   progapi2_v2/samples_googlegenomics.rst
    progapi2_v2/users_get.rst
 
 Cohort API Details (v1)
@@ -208,8 +206,6 @@ Both versions are currently available, but v1 will eventually be deprecated.
    progapi2/datafilenamekey_list_from_cohort.rst
    progapi2/datafilenamekey_list_from_sample.rst
    progapi2/delete_cohort.rst
-   progapi2/google_genomics_from_cohort.rst
-   progapi2/google_genomics_from_sample.rst
    progapi2/patient_details.rst
    progapi2/preview_cohort.rst
    progapi2/sample_details.rst
