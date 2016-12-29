@@ -14,7 +14,7 @@ a set of standardized pipelines and the the resulting high-level (*"Level 3"*) d
 in most downstream analyses.  The figure below summarizes the distribution of the data by both Size of Data as well as Number of Data Files.
 
 .. image:: TCGASizeandComplexity.PNG
-   :scale: 100
+   :scale: 50
    :align: center
 
 The ISB-CGC platform aims to make these different types of data accessible to the widest
