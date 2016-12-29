@@ -13,7 +13,7 @@ Google Cloud Storage.  Over the course of the TCGA project, this low-level (*"Le
 a set of standardized pipelines and the the resulting high-level (*"Level 3"*) data is frequently the data that is used
 in most downstream analyses.  The figure below summarizes the distribution of the data by both Size of Data as well as Number of Data Files.
 
-.. image:: new-block-three-p.png
+.. image:: TCGASizeandComplexity.PNG
    :scale: 100
    :align: center
 
