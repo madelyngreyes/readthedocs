@@ -1,6 +1,6 @@
-**************
-Reference Data
-**************
+*********************
+Hosted Reference Data
+*********************
 
 ISB-CGC Hosted Reference Data
 #############################
