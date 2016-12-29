@@ -13,8 +13,9 @@ Google Cloud Storage.  Over the course of the TCGA project, this low-level (*"Le
 a set of standardized pipelines and the the resulting high-level (*"Level 3"*) data is frequently the data that is used
 in most downstream analyses.  The figure below summarizes the distribution of the data by both Size of Data as well as Number of Data Files.
 
-
-
+.. image:: new-block-three-p.png
+   :scale: 100
+   :align: center
 
 The ISB-CGC platform aims to make these different types of data accessible to the widest
 possible variety of users within the cancer research community, using the most appropriate Google Cloud Platform 
