@@ -11,7 +11,7 @@ The ISB-CGC hosts approximately 1 petabyte of TCGA_ data in various Google Cloud
 The vast majority (over 99%) of this **petabyte** of data consists of low-level sequence data, currently stored as files in
 Google Cloud Storage.  Over the course of the TCGA project, this low-level (*"Level 1"*) data has been processed through 
 a set of standardized pipelines and the the resulting high-level (*"Level 3"*) data is frequently the data that is used
-in most downstream analyses.  The figure below summarizes the distribution of the data by both Size of Data as well as Number of Data Files.  Of note, the size of the level 3 files is only 0.2% of all the TCGA data, yet it represents the most meaningful biological data.
+in most downstream analyses.  The figure below summarizes the distribution of the data by both Size of Data as well as Number of Data Files.  Of note, the size of the Level 3 files is only 0.2% of all the TCGA data, yet it represents the most meaningful biological data.
 
 .. image:: TCGASizeandComplexity.PNG
    :scale: 50
