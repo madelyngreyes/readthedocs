@@ -6,6 +6,7 @@ TCGA Data Levels
 ================
 
 For each *type* of data, there are typically three *levels* of data:
+
 * Level 1 typically represents raw, un-normalized data
 * Level 2 typically represents an intermediate level of processing and/or normalization of the data;
 * Level 3 typically represents aggregated, normalized, and/or segmented data.
