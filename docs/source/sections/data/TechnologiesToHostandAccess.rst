@@ -39,7 +39,8 @@ ISB-CGC data stored in BigQuery is only open access, not requiring dbGaP authriz
 
 Details of how to find the data of interest
 -------------------------------------------
-ISB-CGC BigQuery datasets can be found by searching for them through the BigQuery Google Interface.  `This web page <../progapi/bigqueryGUI/LinkingBigQueryToIsb-cgcProject.html>`_ and this Tutorial describe how to do this.  All that is required is a Google Cloud Project.
+ISB-CGC BigQuery datasets can be found by searching for them through the BigQuery Google Interface.  `This web page <../progapi/bigqueryGUI/LinkingBigQueryToIsb-cgcProject.html>`_ and this quick
+`visual walkthrough <https://raw.githubusercontent.com/isb-cgc/readthedocs/master/docs/include/intro_to_BigQuery.pdf>`_ describe how to do this.  All that is required is a Google Cloud Project.
 
 Details of how to use the data of interest through a Google interactively or programmatically
 ---------------------------------------------------------------------------------------------
