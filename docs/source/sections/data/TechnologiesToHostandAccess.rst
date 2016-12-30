@@ -8,7 +8,7 @@ Google Technologies Used to Host Data
 
 ISB-CGC hosts biomedical data in three types of Google Technologies:
 
-- Google Cloud Storage (GCS_) - this is the basic object storage mechanism for rapidly accessing files.  This is where copies of the raw data files at the Genomic Data Commons are stored. These files can be used by the same analytic programs that have been written to handle the raw data files by creating a copy on a persistant disk store mounted to your virtual machine.
+- Google Cloud Storage (GCS_) - this is the basic object storage mechanism for rapidly accessing files.  This is where copies of the raw data files at the `Genomic Data Commons <https://gdc.cancer.gov/>`_ are stored for use with ISB-CGC and Google Cloud Platform technologies. These files can be used by the same analytic programs that have been written to handle the raw data files used in a non-cloud based computer environment.  This is done by creating a copy on a `persistant disk <https://cloud.google.com/persistent-disk/>`_ store mounted to your virtual machine that you are doing the computations on.
  - Details of how to find the files of interest.
  - Details of how to use the files of interest programmatically
 - BigQuery_
