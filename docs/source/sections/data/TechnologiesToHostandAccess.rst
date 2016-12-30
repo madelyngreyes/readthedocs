@@ -29,7 +29,9 @@ To query and find the location of the data files, use  `ISB-CGC API (v2) <../pro
 
 Details of how to use the files of interest programmatically
 ------------------------------------------------------------
-We have both `R and Python Tutorials <../progapi/Tutorials.html>`_ showing examples of how to perform customized analyses with ISB-CGC data using our APIs.  PLEASE NOTE: other programming languages can easily be used to access the APIs by referencing details in Google's `APIs and Reference documentation <https://cloud.google.com/storage/docs/apis>`_.
+We have both `R and Python Tutorials <../progapi/Tutorials.html>`_ showing examples of how to perform customized analyses with ISB-CGC data using our APIs.
+
+*PLEASE NOTE*: other programming languages can easily be used to access the APIs by referencing details in Google's `APIs and Reference documentation <https://cloud.google.com/storage/docs/apis>`_.
 
 BigQuery
 ========
