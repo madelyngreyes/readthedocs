@@ -44,7 +44,7 @@ ISB-CGC BigQuery datasets can be found by searching for them through the BigQuer
 
 Details of how to use the data of interest through a Google interactively or programmatically
 ---------------------------------------------------------------------------------------------
-For using BigQuery interactively we have many resources.  This includes a `BigQuery SQL Tutorial <workshop/BQ_SQL_tut_v2.html>`_, as well as `Walk Through of BigQuery <../progapi/bigqueryGUI/WalkthroughOfGoogleBigQuery.html>`_.
+For using BigQuery interactively we have many resources.  This includes a `BigQuery SQL Tutorial <../workshop/BQ_SQL_tut_v2.html>`_, as well as `Walk Through of BigQuery <../progapi/bigqueryGUI/WalkthroughOfGoogleBigQuery.html>`_.
 
 Programmatic use of BigQuery is demonstrated through this workshop material doing `Analysis with R and BigQuery <../workshop/Workshop_R_tut_v2.html>`_ as well as the `Query of the Month Club <../QueryOfTheMonthClub>`_ that demonstrates new and interesting queries that show the `Big Data Analytic Power' of BigQuery using ISB-CGC BigQuery data.
 
