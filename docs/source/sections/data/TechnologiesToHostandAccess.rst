@@ -17,12 +17,40 @@ ISB-CGC hosts biomedical data in three types of Google Technologies:
 
 How to Access Biomedical Data Hosted on ISB-CGC
 ###############################################
-- Google Cloud Storage
- - Details of how to find the files of interest.
- - Details of how to use the files of interest programmatically
-- BigQuery
- - Details of how to find the data of interest.
- - Details of how to use the data of interest programmatically
-- Google Genomics
- - Details of how to find the data of interest.
- - Details of how to use the data of interest programmatically
+Intro text here
+
+Google Cloud Storage
+====================
+Text here (optional)
+
+Details of how to find the files of interest
+--------------------------------------------
+Text here
+
+Details of how to use the files of interest programmatically
+------------------------------------------------------------
+text here
+
+BigQuery
+========
+Text here (optional)
+
+Details of how to find the data of interest
+-------------------------------------------
+text here
+
+Details of how to use the data of interest programmatically
+-----------------------------------------------------------
+text here
+
+Google Genomics
+===============
+Text here (optional)
+
+Details of how to find the data of interest
+-------------------------------------------
+text here
+
+Details of how to use the data of interest programmatically
+-----------------------------------------------------------
+text here
