@@ -10,7 +10,7 @@ ISB-CGC hosts biomedical data in three types of Google Technologies:
 
 - Google Cloud Storage (GCS_)
 - BigQuery_
-- Google Genomics
+- `Google Genomics <https://cloud.google.com/genomics/>`_
 
 The ISB-CGC hosts approximately 1 petabyte of TCGA_ data in Google Cloud Storage (GCS_) and in BigQuery_.  
 
