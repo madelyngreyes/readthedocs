@@ -21,11 +21,11 @@ Data can be accessed through both a `Web Interface <../Web-UI.html>`_ or Program
 
 Google Cloud Storage
 ====================
-Text here (optional)
+ISB-CGC data stored here is both in open data sets (freely accessible with only a Google ID and a Google Cloud Project necessary to access), or controlled access data sets (requiring a dbGaP authorization and an NIH ID authentication).
 
 Details of how to find the files of interest
 --------------------------------------------
-Text here
+To query and find the location of the data files, use these `APIs <../progapi/Programmatic-API.html#id4>`_.   They can be accessed either through a `Google web interface <https://apis-explorer.appspot.com/apis-explorer/?base=https%3A%2F%2Fapi-dot-isb-cgc.appspot.com%2F_ah%2Fapi#p/isb_cgc_api/v2/>`_, or through `ISB-CGC APIs <../progapi/Programmatic-API.html#isb-cgc-api>`_ that are used on the command line or within programs to access the information.
 
 Details of how to use the files of interest programmatically
 ------------------------------------------------------------
