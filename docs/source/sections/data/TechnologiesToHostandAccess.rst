@@ -25,7 +25,7 @@ ISB-CGC data stored in GCS is both in open data stores (freely accessible with o
 
 Details of how to find the files of interest
 --------------------------------------------
-To query and find the location of the data files, use these `APIs <../progapi/Programmatic-API.html#id4>`_.   They can be accessed either through a `Google web interface <https://apis-explorer.appspot.com/apis-explorer/?base=https%3A%2F%2Fapi-dot-isb-cgc.appspot.com%2F_ah%2Fapi#p/isb_cgc_api/v2/>`_, or through `ISB-CGC APIs <../progapi/Programmatic-API.html#isb-cgc-api>`_ that are used on the command line or within programs to access the information.
+To query and find the location of the data files, use  `ISB-CGC API (v2) <../progapi/Programmatic-API.html#id4>`_.   They can be accessed either through a `Google web interface <https://apis-explorer.appspot.com/apis-explorer/?base=https%3A%2F%2Fapi-dot-isb-cgc.appspot.com%2F_ah%2Fapi#p/isb_cgc_api/v2/>`_, or through `ISB-CGC APIs <../progapi/Programmatic-API.html#isb-cgc-api>`_ that are used on the command line or within programs to access the information.
 
 Details of how to use the files of interest programmatically
 ------------------------------------------------------------
