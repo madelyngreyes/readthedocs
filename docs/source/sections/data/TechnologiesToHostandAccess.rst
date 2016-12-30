@@ -21,7 +21,7 @@ Data can be accessed through both a `Web Interface <../Web-UI.html>`_ or Program
 
 Google Cloud Storage
 ====================
-ISB-CGC data stored in GCS is both in open data stores (freely accessible with only a Google ID and a Google Cloud Project necessary to access), or controlled access data stores (requiring a dbGaP authorization and an NIH ID authentication).
+ISB-CGC data stored in GCS is both in open data stores (freely accessible with only a Google ID and a Google Cloud Project necessary to access), or controlled access data stores (requiring a `dbGaP authorization and an NIH ID authentication <../webapp/Gaining-Access-To-TCGA-Contolled-Access-Data.html>`_).
 
 Details of how to find the files of interest
 --------------------------------------------
