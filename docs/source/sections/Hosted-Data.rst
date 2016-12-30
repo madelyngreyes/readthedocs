@@ -13,5 +13,6 @@ We are actively working on hosting TARGET and CGCI datasets provided by the `Gen
    data/TCGA-Data
    data/TCGA_on_ISBCGC
    data/Reference-Data
+   data/TechnologiesToHostandAccess
    data/Releases-Plus
 
