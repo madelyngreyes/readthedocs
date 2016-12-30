@@ -17,7 +17,7 @@ ISB-CGC hosts biomedical data in three types of Google Technologies:
 
 How to Access Biomedical Data Hosted on ISB-CGC
 ###############################################
-Data can be accessed through both a `Web Interface </Web-UI.html>`_ or Programmatically through command lines and programs.  To access data through the Web Interface, specific details on how to find and use the data are handled by ISB-CGC.  Programmatic access is done through well defined Application Programming Interfaces (APIs) that are detailed in links provided in the sections below, grouped by Google Technology.
+Data can be accessed through both a `Web Interface <//Web-UI.html>`_ or Programmatically through command lines and programs.  To access data through the Web Interface, specific details on how to find and use the data are handled by ISB-CGC.  Programmatic access is done through well defined Application Programming Interfaces (APIs) that are detailed in links provided in the sections below, grouped by Google Technology.
 
 Google Cloud Storage
 ====================
