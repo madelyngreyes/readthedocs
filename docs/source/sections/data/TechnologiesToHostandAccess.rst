@@ -23,6 +23,6 @@ How to Access Biomedical Data Hosted on ISB-CGC
 - BigQuery
  - Details of how to find the data of interest.
  - Details of how to use the data of interest programmatically
--Google Genomics
+- Google Genomics
  - Details of how to find the data of interest.
  - Details of how to use the data of interest programmatically
