@@ -35,11 +35,11 @@ We have both `R and Python Tutorials <../progapi/Tutorials.html>`_ showing examp
 
 BigQuery
 ========
-ISB-CGC data stored in BigQuery is only open access, not requiring dbGaP authrization to access thes tables.  There is great overview of `TCGA data in BigQuery </data2/data_in_BQ.html>`_ that describes details of how best to interlink the large amount of available data, both TCGA experimaenal data as well as reference data that provides biological meaning.  
+ISB-CGC data stored in BigQuery is only open access, not requiring dbGaP authrization to access thes tables.  There is great overview of `TCGA data in BigQuery </data2/data_in_BQ.html>`_ that describes details of how best to inter-relate the large amount of available data, both TCGA experimental data as well as reference data that provides biological meaning.  
 
 Details of how to find the data of interest
 -------------------------------------------
-text here
+ISB-CGC BigQuery datasets can be found by searching for them through the BigQuery Google Interface.  `This web page <../progapi/bigqueryGUI/LinkingBigQueryToIsb-cgcProject.html>`_ and this Tutorial describe how to do this.  All that is required is a Google Cloud Project.
 
 Details of how to use the data of interest through a Google interactively or programmatically
 ---------------------------------------------------------------------------------------------
