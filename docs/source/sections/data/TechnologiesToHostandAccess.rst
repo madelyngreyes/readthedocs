@@ -21,7 +21,7 @@ Data can be accessed through both a `Web Interface <../Web-UI.html>`_ or Program
 
 Google Cloud Storage
 ====================
-ISB-CGC data stored here is both in open data sets (freely accessible with only a Google ID and a Google Cloud Project necessary to access), or controlled access data sets (requiring a dbGaP authorization and an NIH ID authentication).
+ISB-CGC data stored in GCS is both in open data stores (freely accessible with only a Google ID and a Google Cloud Project necessary to access), or controlled access data stores (requiring a dbGaP authorization and an NIH ID authentication).
 
 Details of how to find the files of interest
 --------------------------------------------
@@ -29,7 +29,7 @@ To query and find the location of the data files, use these `APIs <../progapi/Pr
 
 Details of how to use the files of interest programmatically
 ------------------------------------------------------------
-text here
+We have both `R and Python Tutorials <../progapi/Tutorials.html>`_ showing examples of how to perform customized analyses with ISB-CGC data using our APIs.  PLEASE NOTE: other programming languages can easily be used to access the APIs by referencing details in Google's `APIs and Reference documentation <https://cloud.google.com/storage/docs/apis>`_.
 
 BigQuery
 ========
