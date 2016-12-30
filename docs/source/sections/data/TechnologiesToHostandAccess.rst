@@ -1,7 +1,7 @@
 **************************************************************
 Google Technologies Used to Host Data (and How to Access Them)
 **************************************************************
-Text introduction here.
+Google has many technologies to store your data.  ISB-CGC has chosen technologies that enable common workflows using historically used file based methods (as the TCGA data exists in the GDC), as well as in data structures that are well adapted to the speed and robustness of the cloud.  Overviews are provided below, with links to more specific detailed documentation of how to use it at ISB-CGC.
 
 Google Technologies Used to Host Data
 #####################################
