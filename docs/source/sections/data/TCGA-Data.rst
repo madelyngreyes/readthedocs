@@ -2,7 +2,7 @@
 About the TCGA Data
 *******************
 
-The ISB-CGC hosts approximately 1 petabyte of TCGA_ data in various Google Cloud Technologies (see this page for more details). 
+The ISB-CGC hosts approximately 1 petabyte of TCGA_ data in various Google Cloud Technologies (see `this page <TechnologiesToHostandAccess.html>`_ for more details). 
 
 .. _TCGA: http://cancergenome.nih.gov/
 .. _GCS: https://cloud.google.com/storage/
