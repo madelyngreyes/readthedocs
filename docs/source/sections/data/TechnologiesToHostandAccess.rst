@@ -10,7 +10,7 @@ ISB-CGC hosts biomedical data in three types of Google Technologies:
 
 - Google Cloud Storage (GCS_) - this is the basic object storage mechanism for rapidly accessing files.  This is where copies of the raw data files at the `Genomic Data Commons <https://gdc.cancer.gov/>`_ are stored for use with ISB-CGC and Google Cloud Platform technologies. These files can be used by the same analytic programs that have been written to handle the raw data files used to analyze TCGA and other genomic and medical data in a non cloud-based computer environment.  This is done by creating a copy on a `persistant disk <https://cloud.google.com/persistent-disk/>`_ store mounted to your virtual machine that you are doing the computations on.
 - BigQuery_ - the information scattered over tens of thousands of XML and TSV files at the Genomic Data Commons is provided in a much more accessible form in a series of open-access BigQuery tables.  The high-level (*"Level 3"*) data (described in more detail `here <TCGA-Data.html>`_) are `Extracted, Transformed and Loaded <data2/data_in_BQ.html#etl-details-for-tcga-data>`_ (ETL) into simple summary tables that can be readily used for analysis across ALL TCGA cancer types, without needing to parse the data from 100's of individual files.  Analyses can be done using either standard SQL queries, or by simple modifications of existing analytic programs to pull the relevant data from BigQuery tables (see below for more details).
-- `Google Genomics <https://cloud.google.com/genomics/>`_ - new text here
+
 
 .. _GCS: https://cloud.google.com/storage/
 .. _BigQuery: https://cloud.google.com/bigquery/
