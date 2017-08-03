@@ -2,7 +2,7 @@
 Web-App Release Notes
 *********************
 
-* **July 31, 2017**: 
+* **July 31, 2017**: `v3.2 <https://github.com/isb-cgc/ISB-CGC-Webapp/releases/tag/3.2>`_
 
  **Please Note:** When creating large cohort you will be given a red error message saying, “There was an error saving your cohort; it may not have been saved correctly.”  This issue is planned to be resolved in the next sprint.
 
@@ -25,9 +25,8 @@ Web-App Release Notes
  Known issues in sprint 17 as of 07/31/2017
 
  - The sharing feature for Workbooks, Cohorts, and User Uploaded Programs is currently disabled
- - Analysis Type : Seq peek Formatting Elongated on occasion 
- - The CCLE data in GUI is not parallel to the CCLE data in BigQuery.  
- - Cannot plot any data if you use a CCLE data cohort on a worksheet.  
+ - Analysis Type : Seq peek Formatting Elongated on occasion   
+ - Cannot plot any data if you use a CCLE data cohort unaccompanied by another program on a worksheet.  
  - On the existing cohorts table list page, the confirmation delete ‘blue x’ button does not remove selected cohort if you select another option e.g Set Operation. The same issue can be found in reverse if you select the ‘blue x’ on the confirmation page for  set operation you can then select the delete button and see the cohort on the confirmation panel.
  - The set operation for existing cohorts complement is behaving exceptionally slow. 
  - A duplication of the exact cohort happens when you select the confirmation multiple times while the page is loading working with Set Operations.
