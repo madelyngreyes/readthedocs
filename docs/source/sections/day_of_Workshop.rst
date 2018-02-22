@@ -121,7 +121,7 @@ Google Genomics
 ===============
 
   + `Overview <https://cloud.google.com/genomics/>`_
-  + `github repositories <https://github.com/googlegenomics>`_
+  + `GitHub repositories <https://github.com/googlegenomics>`_
   + `Google Genomics Cookbook <https://googlegenomics.readthedocs.io/en/latest/>`_ with sections on:
 
     - finding `published data sources <https://googlegenomics.readthedocs.io/en/latest/use_cases/discover_public_data/index.html>`_
