@@ -18,7 +18,7 @@ your email address is a Google-managed identity is to go to the `password assist
 select *"I don't know my password"* and enter your email address.  If you get a response like *"Please contact your domain IT administrator"*
 then your email address is *not* a Google identity.
 
-If you dont' have a Google identity, it only takes a minute to
+If you don't have a Google identity, it only takes a minute to
 `create one <https://accounts.google.com/SignUp?dsh=308321458437252901&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount#FirstName=&LastName=>`_.
 
 Installing the Google Cloud SDK
@@ -99,7 +99,7 @@ You may have different grants or contracts that need to be charged for specific 
 have different groups of collaborators that you are working with, or you may be working with different sets of
 controlled-access data.  All of these are good reasons to set up multiple, separate, GCP projects.  When you do
 so, however, you will need to learn to pay attention to which project is your *"current"* project.  Any costs
-that you may incur, will alwasy be charged to your *current* project.  The types of actions that incur costs
+that you may incur, will always be charged to your *current* project.  The types of actions that incur costs
 include uploading data to a storage bucket, spinning up a VM, running a BigQuery query, *etc*.  
 
 * If you are using the Console, you will see the Project Name in the blue bar at the top of the page, and the browser url should look like: ``https://console.cloud.google.com/home/dashboard?project=<project-id>``.  
