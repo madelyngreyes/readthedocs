@@ -4,43 +4,53 @@
    contain the root `toctree` directive.
 
 *****************************
-The ISB Cancer Genomics Cloud
+ISB-CGC
 *****************************
 
-Welcome to the ISB-CGC Documentation on Read the Docs.
+Welcome to the ISB-CGC Documentation on Read the Docs!
 
-Here you will find information describing the features of the ISB-CGC platform, 
-tips on how to use it, and details about the data that we are hosting on the 
-Google Cloud Platform.
+Contained within the documentation are descriptions of ISB-CGC features along with guides and tips for exploring data sets hosted on the Google Cloud Platform.
 
-.. image:: new-block-three-p.png
-   :scale: 100
-   :align: center
+.. image:: overview_image.png
+   :align: left
 
-The ISB-CGC aims to serve the needs of a broad range of cancer researchers ranging from 
-scientists or clinicians who prefer to use an interactive web-based application to access 
-and explore the rich TCGA, TARGET, CCLE, and COSMIC datasets, to computational scientists who want to write their own 
-custom scripts using languages such as R or Python, accessing the data through APIs, and 
-to algorithm developers who wish to spin up thousands of virtual machines to analyze hundreds 
-of terabytes of sequence data.
-
-This documentation is a work-in-progress, please let us know how we can improve 
-it. feedback@isb-cgc.org 
+The `ISB-CGC <https://isb-cgc.org>`_ aims to serve the needs of a broad range of cancer researchers ranging from scientists or clinicians who prefer to use an interactive web-based application to access and explore the rich TCGA, TARGET, CCLE, and COSMIC datasets, to computational scientists who want to write their own custom scripts using languages such as R or Python, accessing the data through APIs, and to algorithm developers who wish to spin up thousands of virtual machines to analyze hundreds of terabytes of sequence data.
 
 -- the ISB-CGC team
 
-Contents
-########
-
 .. toctree::
+   :hidden:
    :maxdepth: 1
+   :caption: GETTING STARTED
 
    sections/About-ISB-CGC
+   sections/HowToGetStartedonISB-CGC
+   sections/HowtoRequestCloudCredits
+   sections/BestPractices
+   sections/Benefits
+   
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+   :caption: USER GUIDE
+   
    sections/Hosted-Data
+   sections/BigQuery
+   sections/BigQueryTableSearchUI
    sections/Web-UI
-   sections/Prog-APIs
-   sections/QuicklinksOneTable
-   sections/TutorialsAndDIYWorkshop
+   sections/progapi/progAPI-v4/Programmatic-Demo
+   sections/Gaining-Access-To-Controlled-Access-Data
+   
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+   :caption: MORE INFORMATION
+   
+   sections/RegulomeExplorerNotebooks
+   sections/HowTos
+   sections/TutorialsAndHow-ToGuides
+   sections/updates/FeatureAlerts
+   sections/Releases
+   sections/Quick-links-updated
    sections/FAQ
    sections/Support
-
